@@ -1,0 +1,16 @@
+
+form{
+    width: 50%;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    /* background-image: url("D:/Mini_Project/pizza/src/component/images/background.jpg"); */
+}
+
+.productDiv{
+    padding: 10px;
+    border:2px solid gray;
+    border-radius: 5%;
+}
